@@ -1,0 +1,11 @@
+{
+  "domain": "time_sensor",
+  "name": "Time Sensor",
+  "documentation": "https://github.com/jgrant216/ha-clock",
+  "dependencies": [],
+  "codeowners": ["@your-github-username"],
+  "version": "1.0.0",
+  "requirements": [],
+  "iot_class": "cloud_polling"
+}
+

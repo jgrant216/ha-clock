@@ -1,0 +1,2 @@
+"""The Clock Sensor integration."""
+
